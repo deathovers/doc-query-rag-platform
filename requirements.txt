@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+celery
+redis
+python-multipart
+openai
+chromadb
+pypdf
+python-docx
+langchain-text-splitters
+pydantic-settings
+python-dotenv
