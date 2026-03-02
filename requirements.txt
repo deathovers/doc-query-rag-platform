@@ -1,14 +1,10 @@
 fastapi
 uvicorn
 sqlalchemy
-psycopg2-binary
-celery
-redis
-python-multipart
-openai
 chromadb
+openai
+python-multipart
 pypdf
 python-docx
 langchain-text-splitters
-pydantic-settings
 python-dotenv
